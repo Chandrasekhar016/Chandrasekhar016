@@ -1,22 +1,20 @@
 # Hi 👋  I'm Chandrasekhar
 ### VLSI Design & Verificaton Engineer(Aspirant)
 
-## 👨‍💻 About Me
+## 🧠 About Me
+-🎓 B.Tech – Electronics & Communication Engineering
+-🔬 Focus: VLSI Design | RTL Development | Digital Systems
+-⚡ Building real-time hardware & software projects
+-📢 Sharing engineering knowledge through content
+#### 🎯 Goal: Design Verification / Physical Design Engineer
 
-- 🎓 B.Tech ECE
-- 💻 Learning RTL Design
-- 🔍 Interested in Design Verification
-- 🚀 Working on VLSI Projects
+## 🛠️ Technical Skills
+-💻 Verilog HDL
+-🔁 FSM Design
+-📐 Digital Logic Design
+-🧰 Xilinx Vivado
+-🔌 Arduino & Embedded Systems
 
-## 🛠 Technical Skills
-
-- Verilog HDL
-- SystemVerilog
-- Digital Electronics
-- FSM Design
-- Xilinx Vivado
-- Python
-- Git & GitHub
 
 ## 🚀 Featured Projects
 
