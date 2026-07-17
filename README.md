@@ -2,20 +2,21 @@
 ### VLSI Design & Verificaton Engineer(Aspirant)
 
 ## 🧠 About Me
--🎓 B.Tech – Electronics & Communication Engineering
--🔬 Focus: VLSI Design | RTL Development | Digital Systems
--⚡ Building real-time hardware & software projects
--📢 Sharing engineering knowledge through content
-#### 🎯 Goal: Design Verification / Physical Design Engineer
+
+- 🎓 B.Tech – Electronics & Communication Engineering
+- 🔬 Focus: VLSI Design | RTL Development | Digital Systems
+- ⚡ Building real-time hardware & software projects
+- 📢 Sharing engineering knowledge through content
+- 🎯 Goal: Design Verification / Physical Design Engineer
 
 ## 🛠️ Technical Skills
--💻 Verilog HDL
--🔁 FSM Design
--📐 Digital Logic Design
--🧰 Xilinx Vivado
--🔌 Arduino & Embedded Systems
 
-
+- 💻 Verilog HDL
+- 🔁 FSM Design
+- 📐 Digital Logic Design
+- 🧰 Xilinx Vivado
+- 🔌 Arduino & Embedded Systems
+  
 ## 🚀 Featured Projects
 
 ### Processor Thermal Controller
