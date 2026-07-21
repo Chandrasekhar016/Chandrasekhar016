@@ -37,7 +37,7 @@
 - Simulation & Verification
 
   
-#### Currently Woorking on 
+#### Currently Working on 
 
 ### 32-bit RISC-V Processor
 
