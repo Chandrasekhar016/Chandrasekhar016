@@ -19,10 +19,25 @@
   
 ## 🚀 Featured Projects
 
-### Processor Thermal Controller
+### 8-bit ALU Processor
+
+- RTL Design
+- Functional Simulation
+- Waveform
+
+### FIFO(First In First Out)
+
+- RTL Design
+- Simulation & Verification
+ 
+### Traffic Light 
+
 - RTL Design
 - FSM
-- Waveform Simulation
+- Simulation & Verification
+
+  
+#### Currently Woorking on 
 
 ### 32-bit RISC-V Processor
 
